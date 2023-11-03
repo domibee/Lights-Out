@@ -28,7 +28,7 @@ import "./Board.css";
  **/
 
 
-function Board({ nrows = 4, ncols = 4, chanceLightStartsOn = 0.20}) {
+function Board({ nrows = 3, ncols = 3, chanceLightStartsOn = 0.35}) {
   // const nrows = props.nrows || 3;
   // const ncols = props.ncols || 3;
   // const chanceLightStartsOn = props.chanceLightStartsOn || 0.35;
